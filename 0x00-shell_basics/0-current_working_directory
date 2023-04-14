@@ -1,4 +1,3 @@
 #!/bin/bash
-current-directory = $(pwd)
-echo "$current-directory"
+pwd
 
