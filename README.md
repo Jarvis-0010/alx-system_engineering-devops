@@ -1,1 +1,1 @@
-This a project on shell scripts
+Project on shell permissions
